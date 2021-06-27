@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B2679E59-60EF-4974-AEB0-7482D1FC055C}</ProjectGuid>
+    <ProjectGuid>{83CD5E8C-2A24-40DB-A402-914301787EEB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>College_Identity_Information_Application</RootNamespace>
     <AssemblyName>College Identity Information Application</AssemblyName>
@@ -42,8 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GuestIdcard.cs" />
+    <Compile Include="IDcard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StaffIdcard.cs" />
+    <Compile Include="StudentIdcard.cs" />
+    <Compile Include="TeacherIdcard.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
