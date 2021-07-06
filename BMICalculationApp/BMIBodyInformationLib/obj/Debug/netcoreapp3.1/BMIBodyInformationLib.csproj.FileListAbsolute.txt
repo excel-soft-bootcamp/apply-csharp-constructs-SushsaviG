@@ -1,0 +1,9 @@
+D:\visual studio\First\BMIBodyInformationLib\bin\Debug\netcoreapp3.1\BMIBodyInformationLib.deps.json
+D:\visual studio\First\BMIBodyInformationLib\bin\Debug\netcoreapp3.1\BMIBodyInformationLib.dll
+D:\visual studio\First\BMIBodyInformationLib\bin\Debug\netcoreapp3.1\BMIBodyInformationLib.pdb
+D:\visual studio\First\BMIBodyInformationLib\obj\Debug\netcoreapp3.1\BMIBodyInformationLib.csproj.AssemblyReference.cache
+D:\visual studio\First\BMIBodyInformationLib\obj\Debug\netcoreapp3.1\BMIBodyInformationLib.AssemblyInfoInputs.cache
+D:\visual studio\First\BMIBodyInformationLib\obj\Debug\netcoreapp3.1\BMIBodyInformationLib.AssemblyInfo.cs
+D:\visual studio\First\BMIBodyInformationLib\obj\Debug\netcoreapp3.1\BMIBodyInformationLib.csproj.CoreCompileInputs.cache
+D:\visual studio\First\BMIBodyInformationLib\obj\Debug\netcoreapp3.1\BMIBodyInformationLib.dll
+D:\visual studio\First\BMIBodyInformationLib\obj\Debug\netcoreapp3.1\BMIBodyInformationLib.pdb
