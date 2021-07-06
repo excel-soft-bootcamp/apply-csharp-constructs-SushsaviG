@@ -1,0 +1,9 @@
+D:\visual studio\First\BMIValidationLib\bin\Debug\netcoreapp3.1\BMIValidationLib.deps.json
+D:\visual studio\First\BMIValidationLib\bin\Debug\netcoreapp3.1\BMIValidationLib.dll
+D:\visual studio\First\BMIValidationLib\bin\Debug\netcoreapp3.1\BMIValidationLib.pdb
+D:\visual studio\First\BMIValidationLib\obj\Debug\netcoreapp3.1\BMIValidationLib.csproj.AssemblyReference.cache
+D:\visual studio\First\BMIValidationLib\obj\Debug\netcoreapp3.1\BMIValidationLib.AssemblyInfoInputs.cache
+D:\visual studio\First\BMIValidationLib\obj\Debug\netcoreapp3.1\BMIValidationLib.AssemblyInfo.cs
+D:\visual studio\First\BMIValidationLib\obj\Debug\netcoreapp3.1\BMIValidationLib.csproj.CoreCompileInputs.cache
+D:\visual studio\First\BMIValidationLib\obj\Debug\netcoreapp3.1\BMIValidationLib.dll
+D:\visual studio\First\BMIValidationLib\obj\Debug\netcoreapp3.1\BMIValidationLib.pdb
