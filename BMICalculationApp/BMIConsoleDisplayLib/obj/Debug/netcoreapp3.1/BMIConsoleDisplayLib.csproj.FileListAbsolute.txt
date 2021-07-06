@@ -1,0 +1,9 @@
+D:\visual studio\First\BMIConsoleDisplayLib\bin\Debug\netcoreapp3.1\BMIConsoleDisplayLib.deps.json
+D:\visual studio\First\BMIConsoleDisplayLib\bin\Debug\netcoreapp3.1\BMIConsoleDisplayLib.dll
+D:\visual studio\First\BMIConsoleDisplayLib\bin\Debug\netcoreapp3.1\BMIConsoleDisplayLib.pdb
+D:\visual studio\First\BMIConsoleDisplayLib\obj\Debug\netcoreapp3.1\BMIConsoleDisplayLib.csproj.AssemblyReference.cache
+D:\visual studio\First\BMIConsoleDisplayLib\obj\Debug\netcoreapp3.1\BMIConsoleDisplayLib.AssemblyInfoInputs.cache
+D:\visual studio\First\BMIConsoleDisplayLib\obj\Debug\netcoreapp3.1\BMIConsoleDisplayLib.AssemblyInfo.cs
+D:\visual studio\First\BMIConsoleDisplayLib\obj\Debug\netcoreapp3.1\BMIConsoleDisplayLib.csproj.CoreCompileInputs.cache
+D:\visual studio\First\BMIConsoleDisplayLib\obj\Debug\netcoreapp3.1\BMIConsoleDisplayLib.dll
+D:\visual studio\First\BMIConsoleDisplayLib\obj\Debug\netcoreapp3.1\BMIConsoleDisplayLib.pdb
