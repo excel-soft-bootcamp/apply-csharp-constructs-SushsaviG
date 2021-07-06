@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BMICalculationApp/1.0.0": {
+        "dependencies": {
+          "BMIBodyInformationLib": "1.0.0",
+          "BMICalculatorLib": "1.0.0",
+          "BMIConsoleDisplayLib": "1.0.0",
+          "BMIValidationLib": "1.0.0"
+        },
+        "runtime": {
+          "BMICalculationApp.dll": {}
+        }
+      },
+      "BMIBodyInformationLib/1.0.0": {
+        "runtime": {
+          "BMIBodyInformationLib.dll": {}
+        }
+      },
+      "BMICalculatorLib/1.0.0": {
+        "runtime": {
+          "BMICalculatorLib.dll": {}
+        }
+      },
+      "BMIConsoleDisplayLib/1.0.0": {
+        "runtime": {
+          "BMIConsoleDisplayLib.dll": {}
+        }
+      },
+      "BMIValidationLib/1.0.0": {
+        "runtime": {
+          "BMIValidationLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BMICalculationApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BMIBodyInformationLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BMICalculatorLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BMIConsoleDisplayLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BMIValidationLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

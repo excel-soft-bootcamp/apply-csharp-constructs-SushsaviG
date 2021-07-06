@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BMIBodyInformationLib\BMIBodyInformationLib.csproj" />
+    <ProjectReference Include="..\BMICalculatorLib\BMICalculatorLib.csproj" />
+    <ProjectReference Include="..\BMIConsoleDisplayLib\BMIConsoleDisplayLib.csproj" />
+    <ProjectReference Include="..\BMIValidationLib\BMIValidationLib.csproj" />
+  </ItemGroup>
+
+</Project>
