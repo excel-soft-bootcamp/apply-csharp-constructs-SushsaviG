@@ -1,0 +1,9 @@
+D:\visual studio\First\BMICalculatorLib\bin\Debug\netcoreapp3.1\BMICalculatorLib.deps.json
+D:\visual studio\First\BMICalculatorLib\bin\Debug\netcoreapp3.1\BMICalculatorLib.dll
+D:\visual studio\First\BMICalculatorLib\bin\Debug\netcoreapp3.1\BMICalculatorLib.pdb
+D:\visual studio\First\BMICalculatorLib\obj\Debug\netcoreapp3.1\BMICalculatorLib.csproj.AssemblyReference.cache
+D:\visual studio\First\BMICalculatorLib\obj\Debug\netcoreapp3.1\BMICalculatorLib.AssemblyInfoInputs.cache
+D:\visual studio\First\BMICalculatorLib\obj\Debug\netcoreapp3.1\BMICalculatorLib.AssemblyInfo.cs
+D:\visual studio\First\BMICalculatorLib\obj\Debug\netcoreapp3.1\BMICalculatorLib.csproj.CoreCompileInputs.cache
+D:\visual studio\First\BMICalculatorLib\obj\Debug\netcoreapp3.1\BMICalculatorLib.dll
+D:\visual studio\First\BMICalculatorLib\obj\Debug\netcoreapp3.1\BMICalculatorLib.pdb
