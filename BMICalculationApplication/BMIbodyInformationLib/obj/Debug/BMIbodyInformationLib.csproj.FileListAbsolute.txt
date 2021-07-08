@@ -1,0 +1,6 @@
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIbodyInformationLib\bin\Debug\BMIbodyInformationLib.dll
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIbodyInformationLib\bin\Debug\BMIbodyInformationLib.pdb
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIbodyInformationLib\obj\Debug\BMIbodyInformationLib.csproj.AssemblyReference.cache
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIbodyInformationLib\obj\Debug\BMIbodyInformationLib.csproj.CoreCompileInputs.cache
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIbodyInformationLib\obj\Debug\BMIbodyInformationLib.dll
+C:\Users\sushma.g\Documents\BMICalculationApplication\BMIbodyInformationLib\obj\Debug\BMIbodyInformationLib.pdb
